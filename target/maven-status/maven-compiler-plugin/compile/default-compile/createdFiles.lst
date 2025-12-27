@@ -1,1 +1,5 @@
 com/security/app/SecureFintechBackendApplication.class
+com/security/app/SecurityConfig.class
+com/security/app/JwtUtils.class
+com/security/app/AuthController.class
+com/security/app/JwtAuthFilter.class

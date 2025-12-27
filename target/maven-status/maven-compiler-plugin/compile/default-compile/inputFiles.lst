@@ -1,1 +1,5 @@
+/workspaces/secure-fintech-backend/src/main/java/com/JwtAuthFilter.java
+/workspaces/secure-fintech-backend/src/main/java/com/security/app/AuthController.java
+/workspaces/secure-fintech-backend/src/main/java/com/security/app/JwtUtils.java
 /workspaces/secure-fintech-backend/src/main/java/com/security/app/SecureFintechBackendApplication.java
+/workspaces/secure-fintech-backend/src/main/java/com/security/app/SecurityConfig.java
